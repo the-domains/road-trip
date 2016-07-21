@@ -1,0 +1,14 @@
+layout_spectrum: 0.7763464
+typography_spectrum: 0.1996251
+color:
+  saturation: 0.9948213
+  lightness: 0.06908483
+  brandStrength: 0.8035753
+  rhythmicContrast: 0.7259087
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Road Trip
