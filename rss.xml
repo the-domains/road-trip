@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Road Trip]]></title>
         <description><![CDATA[Road Trip]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/road-trip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 10:58:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jul 2016 14:19:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/road-trip/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ViewRanger]]></title>
+            <description><![CDATA[<article><h1>ViewRanger</h1><p>I've installed Viewranger on my phone, and I'm learning to use it to record our hikes. We started with 2.8 miles yesterday.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2a61f39-89e5-4528-abfb-19288d0ab149.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2a61f39-89e5-4528-abfb-19288d0ab149.jpg</link>
+            <guid isPermaLink="false">58005559-4741-404e-af10-2501440afe78</guid>
+            <pubDate>Sun, 24 Jul 2016 14:19:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Planning]]></title>
-            <description><![CDATA[<article><h1>Planning</h1><p>It all started when our son invited us to visit his family in Montana this summer. We talked about driving. Then we talked about what we might see on the way.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b74cc1a590fa0331b57bfa52e2b4cc04/croprotate.jpg?cropheight=960&cropwidth=1280&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F64c95b00-f35d-42c2-9fe3-a4edc9ee6bb6.jpg&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<article><h1>Planning</h1><p>It all started when our son invited us to visit his family in Montana this summer. We talked about driving. Then we talked about what we might see on the way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f8693ea2481932796efec0d349f7991f963bee5.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/367b2cde-dc8f-417c-a78a-ba36ab08868d.jpg</link>
             <guid isPermaLink="false">03958ac2-4baa-4358-a745-5450d616fb1d</guid>
             <pubDate>Fri, 22 Jul 2016 10:58:05 GMT</pubDate>
